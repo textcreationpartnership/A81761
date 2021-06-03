@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain quæries concerning liberty of conscience. Propounded to those ministers (so called) of Leicestershire, when they first met to consult that representation which they so privately framed, and yet afterwards so publiquely fathered upon that county. / By Henry Danvers, a lover of truth, and just freedom.</title>
+            <author>Danvers, Henry, d. 1687.</author>
+         </titleStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81761</idno><idno type="EEBO-CITATION">99864931</idno>
+  <idno type="VID">117163</idno>
+  <idno type="EEBO-PROQUEST">2240911902</idno>
+  
+            <idno type="STC">Wing D222</idno>
+            <idno type="STC">Thomason E548_20</idno>
+            <idno type="STC">ESTC R205592</idno>
+            <idno type="PROQUEST">99864931</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864931e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81761)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117163)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E548[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain quæries concerning liberty of conscience. Propounded to those ministers (so called) of Leicestershire, when they first met to consult that representation which they so privately framed, and yet afterwards so publiquely fathered upon that county. / By Henry Danvers, a lover of truth, and just freedom.</title>
+                  <author>Danvers, Henry, d. 1687.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the Black-spread-Eagle at the west end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date supplied by Wing.</note>
+                  <note>Annotation on Thomason copy: "March 27 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Liberty of conscience --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117163:1"/>
+            <p>CERTAIN QUAERIES CONCERNING LIBERTY OF CONSCIENCE.</p>
+            <p>PROPOUNDED To those Ministers (so called) of <hi>Lei<g ref="char:EOLhyphen"/>cestershire,</hi> when they first met to con<g ref="char:EOLhyphen"/>sult that Representation which they so privately framed, and yet afterwards so publiquely fathered upon that County.</p>
+            <p>
+               <hi>By</hi> HENRY DANVERS, <hi>a Lover of Truth, and just Freedom.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for GILES CALVERT, at the <hi>Black-spread-Eagle</hi> at the West end of <hi>Paul<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117163:2"/>
+            <pb n="1" facs="tcp:117163:2"/>
+            <head>
+               <hi>Certain Quaeries concerning</hi> Liberty of Conscience, &amp;c.</head>
+            <p>
+               <hi>Qu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re</hi> 1. <seg rend="decorInit">W</seg>HETHER all civil States, with their Offices of Justice, in their respective constitutions and administrations, are not essentially civil; and how then Jud<g ref="char:EOLhyphen"/>ges, Governors, or Defendors of the Spi<g ref="char:EOLhyphen"/>rituall and Christian State and Worship?</p>
+            <p>
+               <hi>Quere</hi> 2. If the power of judging (<hi>in sacris</hi>) is or ought to be in the Civil Magistrate (as some urge) Whether it will not ne<g ref="char:EOLhyphen"/>cessarily follow, that every Common-wealth must have radical<g ref="char:EOLhyphen"/>ly and fundamentally a power in it of true discerning the true Worship and fear of God; which they must transfer unto the Magistrates and Officers (there being no lawfull authority, which is not originally derived from the consent of the people) or else no lawfull Kingdoms or Coasts in the world. But Christ saith expresly, <hi>John</hi> 18.46. <hi>My Kingdom is not of this world.</hi>
+            </p>
+            <p>
+               <hi>Quere</hi> 3. If the Rulers of the earth are bound to put to death all that worship other Gods then the true God, or blaspheme him: Whether it will not unavoidably follow, that the Jew<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, those people beloved for the Fathers sake, whose Religion it self blasphemeth Christ in the highest degree, are not all to be the Sons of death; on whom also are conferred so many glorious promises yet to be fulfilled? And also all the Towns, Kingdoms, and Nations in the world; if they do not speedily renounce their Gods and Worships, and so be made to cease blaspheming the true God by their Idolatries, must not all be put to death, and so turn the world out of the world?</p>
+            <p>
+               <hi>Quere</hi> 4. If the duty of Civil Magistrates to punish Hereticks, &amp;c. then undoubtedly they have a right or power of judging:
+<pb n="2" facs="tcp:117163:3"/>If so, then Queen <hi>Mary</hi> as well discharged her duty, as Queen <hi>E<g ref="char:EOLhyphen"/>lizabeth,</hi> who judged and punisht according to her Conscience, b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing as lawfull a Magistrate as the other; for an unbelieving Magistrate, Father, or Husband, is not lesse a Magistrate, Father, Husband, then one that believes: Though Christianity teacheth those to act in their severall callings, to a higher ultimate end, from higher Principles, and in a more heavenly and spirituall manner.</p>
+            <p>
+               <hi>Quere</hi> 5. Whether they that would give the power of judging Consciences in the world, into the hand of the Civil Magistrate, doth not draw it from <hi>Moses,</hi> and the Jewish practises (and ther<g ref="char:EOLhyphen"/>by deny Christ to be come in the flesh) though in the pattern it self it will not hold, for they judge! only them that were of the Church.</p>
+            <p>
+               <hi>Quere</hi> 6. Whether the equity of cutting off Idolaters, Blasphe<g ref="char:EOLhyphen"/>mers, &amp;c. in the temporall <hi>Israel,</hi> remains not, and holds good in the Antetype, the Church of Christ, that spirituall <hi>Israel?</hi> And are there not also Gospel-rules to that purpose? But the <hi>Israel</hi> of old, as it medled not with the world, so it typed out nothing to them: yet what was simply morall, civill, naturall, in <hi>Israels</hi> state, in the constitutions, laws, punishments, may be imitated and followed in the places, Cities and Kingdoms of the world: Yea, who can question the lawfulnesse of other forms that differ in any Kingdom, since civil Constitution is mans Ordinance, 2 <hi>Pet.</hi> 2.23. Which Gods people are commanded, for Gods sake, to submit themselves to; which if they were not lawfull, they ought not.</p>
+            <p>
+               <hi>Quere</hi> 7. Whether the taking the Kingdom of <hi>England</hi> for the Church of <hi>England,</hi> and so setting up the Nationall Magistracy of <hi>Israel</hi> in the Nation now, as it was then; and so judging all impurenes, uncleannes, adultery, idolatry, blasphemy, Sabbath-breaking, &amp;c. as they did, may be warranted to us (one of the Na<g ref="char:EOLhyphen"/>tions of the world) by any Gospel-rule or Warrant.</p>
+            <p>
+               <hi>Quere</hi> 8. Whether the Rule the Apostle gives to families, in this case, will not hold in Common-wealths which are formed of them, 1 <hi>Cor.</hi> 7. To dwell with the Unbeliever and Infidel, if she be pleased to dwell with him; but to be so far from forcing the Conscience, that if she would depart for Conscience sake
+<pb n="3" facs="tcp:117163:3"/>from him, she was not to be forced to tarry?</p>
+            <p>
+               <hi>Quere</hi> 9. Whether it be not one main ground of all the per<g ref="char:EOLhyphen"/>secutions, strifes, wars and contentions, that are, or almost ever was, in the world, by instilling such a principle into the Civil Magistrate, that they ought to cut off Blasphemers and Here<g ref="char:EOLhyphen"/>ticks; or at least those they should judge so to be? And therfore is it not now the practice of <hi>Scotland, France, Spain, Turks, &amp;c▪</hi> to set up in each a Religion of their own? And they that dissent from it, are they not by the Magistrate condemned for the Here<g ref="char:EOLhyphen"/>tick? And hath it not been so in <hi>England</hi> from time to time? Were not the Protestants the Popes Hereticks; the Puritans or Non-Conformists there? And the Independents the Puritans Hereticks and Schismaticks? Was not our Saviour himself cru<g ref="char:EOLhyphen"/>cified upon this Account? The Disciples and Apostles all along suffering for the Hereticks of the times; and so the most blessed Saints and followers of Christ ever since: And are not most of the Wars now in the world grounded upon or for Religion▪</p>
+            <p>
+               <hi>Quere</hi> 10. Whether this principle is not more futable and a<g ref="char:EOLhyphen"/>greeable with the Gospel, That Christ shed his bloud for his bloudiest enemies; died for the chiefest sinners? Did not <hi>Paul</hi> himself acknowledge to have been a Blasphemer, 1 <hi>Tim.</hi> 1.13? Did not Christ himself, as much as in him lay, acquit the Adul<g ref="char:EOLhyphen"/>teresse from the law? And for Idolaters, such were some of ye, 1 <hi>Cor.</hi> 6.11. And that he no way delights in the bloud of any for whose sake and Kingdom men pretend to persecute; and therfore instructs, that all Gentlenesse and meeknesse should be used to all men: Did not he tell his Disciples, when they would have had fire come down from Heaven upon those rejecters of him, that they knew not what spirit they were of? Doth not God denounce heavy curses against those that afflict or per<g ref="char:EOLhyphen"/>secute the poor blasphemous Iews? And how many severall Scri<g ref="char:EOLhyphen"/>ptures commanding us not to judge one another? viz. <hi>Mat.</hi> 7.1. <hi>Judge not that you be not judged. Jam.</hi> 4.11. <hi>Who art thou that judgest ano<g ref="char:EOLhyphen"/>ther? Rom.</hi> 14.4. <hi>Who art thou that judgest another mans servant? Vers.</hi> 11. <hi>Why dost thou judge thy Brother, seeing we shall all stand before the judgment seat of Christ? Rom.</hi> 2.1. <hi>Thou art inexcusable, O man, whoever thou art that judgest; for wherein thou judgest another, thou con<g ref="char:EOLhyphen"/>demnest thy self:</hi> Therfore judgment in soul and conscience, mat<g ref="char:EOLhyphen"/>ters,
+<pb n="4" facs="tcp:117163:4"/>as they are done to God, or against him, must he not be sole Judge thereof? And by reason of the imperfection of man, he is only to judge for himself: Though the judgment and cen<g ref="char:EOLhyphen"/>sure of a true Church, according to the rules in the Gospel, is no way denied. Our Saviour tels them that persecute, <hi>That they ful<g ref="char:EOLhyphen"/>fill the iniquity of their Fathers, and bring upon themselves all the unrigh<g ref="char:EOLhyphen"/>teous <gap reason="illegible" resp="#murp" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ud shed from the beginning, even from the bloud of the righteous Abel, &amp;c. He saith, his people are sheep;</hi> Now we know that the na<g ref="char:EOLhyphen"/>ture of sheep is not to tear, bite or devour: tis the Wolves that have that disposition; they persecute the sheep: Therfore as we will evidence our selves to be the sheep of Christ, let us put far from us persecution, under what notion or pretence soever. They made fair pretences in taking away the Prophets of old; as the seditious and disturbers; our Saviour himself as a Blas<g ref="char:EOLhyphen"/>phemer; his Disciples and followers as movers of sedition, stir<g ref="char:EOLhyphen"/>rers up of the people, and Hereticks.</p>
+            <p>
+               <hi>Obj.</hi> But it is askt, <hi>What shall be done then in case of blasphemy, and heresie?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> 1. <hi>In meeknesse instruct those that oppose,</hi> 2 Tim. 2.25.</p>
+            <p n="2">2. By sound Doctrine exhort and convince the Gainsayers, so stopping their mouths.</p>
+            <p n="3">3. Christ saith, <hi>Let them alone, the blind leader, and the blind, fel<g ref="char:EOLhyphen"/>lows.</hi>
+            </p>
+            <p n="4">4. You must use all patience; for what knowest thou but that a blasphemous and persecuting <hi>Saul,</hi> may become a preaching <hi>Paul?</hi> And therfore was the unbelieving Husband to continue with his Infidel and unbelieving Wife, because he knew not but that he might be a means to save her.</p>
+            <p n="5">5. The offence is to God, who alone <hi>must take vengeance of un<g ref="char:EOLhyphen"/>godly sinners, that have spoke evil and hard speeches of him, Jude</hi> 15. Who may, if it seem good in his sight, cut them off, as he did <hi>Ananias</hi> and <hi>Saphyra.</hi> Or what if he please to magnifie his patience and long-suffering on them, though Vessels of wrath, it is for his praise.</p>
+            <p n="6">6. There must be <hi>heresies among you, that the approved may be known.</hi> And again, <hi>In the last times evil men and seducers shall wax worse and worse, deceiving and being deceived.</hi>
+            </p>
+            <p>
+               <hi>Obj.</hi> But askt again, <hi>Shall we</hi> (according to the Agreement)
+<pb n="5" facs="tcp:117163:4"/>
+               <hi>protect such as <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>issent from it, though they be not disturbers of the publique peace?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> Yes sure, being most agreeable to that command of our Saviours, <hi>As you would that men should do unto you, do ye the same to them, for this is according to the Law and the Prophets.</hi>
+            </p>
+            <p>
+               <hi>Quere</hi> 11. Whether this spirit of judging, censuring and per<g ref="char:EOLhyphen"/>secuting under these severall pretences, as Heresy and Blasphemy, &amp;c. hath not been most subject at all times to the Priesthood, as well those of old, as those that ever since that have pretended to it: And therfore should not they of all men take heed and be<g ref="char:EOLhyphen"/>ware of so dangerous a principle and practice?</p>
+            <p>
+               <hi>Quere</hi> 12. Whether there be not a great jealousy how the present. Ecclesiasticall interest and profits should be preserved, without the choicest power of the Magistrate to help it? Which if well observed, will it not make them appear to be lesse of God, and more of man?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
